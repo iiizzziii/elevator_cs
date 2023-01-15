@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\elevator_cs\bin\Debug\net7.0\elevator_cs.exe
+C:\Users\moo\Documents\elevator_cs\bin\Debug\net7.0\elevator_cs.deps.json
+C:\Users\moo\Documents\elevator_cs\bin\Debug\net7.0\elevator_cs.runtimeconfig.json
+C:\Users\moo\Documents\elevator_cs\bin\Debug\net7.0\elevator_cs.dll
+C:\Users\moo\Documents\elevator_cs\bin\Debug\net7.0\elevator_cs.pdb
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.AssemblyInfo.cs
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.dll
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\refint\elevator_cs.dll
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.pdb
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\elevator_cs.genruntimeconfig.cache
+C:\Users\moo\Documents\elevator_cs\obj\Debug\net7.0\ref\elevator_cs.dll
